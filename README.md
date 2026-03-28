@@ -43,6 +43,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0189-rotate-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## String
