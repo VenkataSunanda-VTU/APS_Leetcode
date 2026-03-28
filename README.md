@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0015-3sum/) | Medium |
+| [0066-plus-one](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -31,4 +32,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0015-3sum/) | Medium |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0066-plus-one](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0066-plus-one/) | Easy |
 <!---LeetCode Topics End-->
