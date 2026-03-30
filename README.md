@@ -45,6 +45,7 @@
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0066-plus-one](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0069-sqrtx](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0189-rotate-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0189-rotate-array/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -62,4 +63,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0069-sqrtx](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0069-sqrtx/) | Easy |
 <!---LeetCode Topics End-->
