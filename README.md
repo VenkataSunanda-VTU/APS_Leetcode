@@ -40,6 +40,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -89,10 +90,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
