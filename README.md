@@ -53,6 +53,7 @@
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0929-unique-email-addresses](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -73,6 +74,7 @@
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@
 | [0070-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0202-happy-number](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0202-happy-number/) | Easy |
+| [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +104,7 @@
 | [0190-reverse-bits](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1763-longest-nice-substring](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -169,6 +173,7 @@
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -177,6 +182,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -209,4 +215,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->
