@@ -4,6 +4,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0142-linked-list-cycle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
@@ -34,6 +35,7 @@
 | [0014-longest-common-prefix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0015-3sum/) | Medium |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
+| [0049-group-anagrams](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0088-merge-sorted-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -64,6 +66,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0015-3sum](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0015-3sum/) | Medium |
+| [0049-group-anagrams](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
@@ -81,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0049-group-anagrams](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 ## Trie
