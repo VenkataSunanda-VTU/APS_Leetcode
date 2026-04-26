@@ -10,6 +10,7 @@
 | [0202-happy-number](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -47,6 +48,7 @@
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0929-unique-email-addresses](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -80,6 +82,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
+| [0929-unique-email-addresses](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
