@@ -44,6 +44,7 @@
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0200-number-of-islands](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0200-number-of-islands/) | Medium |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
@@ -98,6 +99,7 @@
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0190-reverse-bits](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0190-reverse-bits/) | Easy |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1763-longest-nice-substring](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Counting
@@ -109,6 +111,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,4 +193,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1763-longest-nice-substring](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 <!---LeetCode Topics End-->
