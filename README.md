@@ -53,6 +53,7 @@
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0733-flood-fill/) | Easy |
+| [0746-min-cost-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0929-unique-email-addresses](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
@@ -126,6 +127,7 @@
 | [0198-house-robber](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
+| [0746-min-cost-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
