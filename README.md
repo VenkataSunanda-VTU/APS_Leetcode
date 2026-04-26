@@ -43,6 +43,7 @@
 | [0119-pascals-triangle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
@@ -122,6 +123,7 @@
 | [0070-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0198-house-robber](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Memoization
