@@ -95,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0190-reverse-bits](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -177,4 +178,8 @@
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0733-flood-fill](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0733-flood-fill/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0190-reverse-bits](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0190-reverse-bits/) | Easy |
 <!---LeetCode Topics End-->
