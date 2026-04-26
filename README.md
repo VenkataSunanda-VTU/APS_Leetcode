@@ -49,6 +49,7 @@
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
@@ -93,6 +94,7 @@
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0049-group-anagrams](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0049-group-anagrams/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0929-unique-email-addresses](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0929-unique-email-addresses/) | Easy |
 | [1763-longest-nice-substring](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
@@ -128,6 +130,7 @@
 | [0119-pascals-triangle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0198-house-robber](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0474-ones-and-zeroes](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 ## Memoization
