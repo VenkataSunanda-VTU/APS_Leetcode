@@ -39,6 +39,7 @@
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Graph Theory
@@ -95,6 +96,7 @@
 | [0118-pascals-triangle](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,6 +116,7 @@
 | [0207-course-schedule](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
+| [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
@@ -146,5 +149,6 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
