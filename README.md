@@ -8,6 +8,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Graph Theory
@@ -61,6 +63,7 @@
 | [0088-merge-sorted-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -73,6 +76,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -111,6 +115,7 @@
 | [0210-course-schedule-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1203-sort-items-by-groups-respecting-dependencies](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/1203-sort-items-by-groups-respecting-dependencies/) | Hard |
@@ -124,6 +129,7 @@
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0733-flood-fill](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1129-shortest-path-with-alternating-colors](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/1129-shortest-path-with-alternating-colors/) | Medium |
@@ -134,6 +140,7 @@
 | [0200-number-of-islands](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
+| [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
