@@ -49,6 +49,7 @@
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0474-ones-and-zeroes](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0474-ones-and-zeroes/) | Medium |
 | [0542-01-matrix](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0542-01-matrix/) | Medium |
 | [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
@@ -76,6 +77,7 @@
 | [0088-merge-sorted-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Math
@@ -232,4 +234,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0062-unique-paths/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 <!---LeetCode Topics End-->
