@@ -38,6 +38,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0026-remove-duplicates-from-sorted-array/) | Easy |
 | [0049-group-anagrams](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0066-plus-one](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0066-plus-one/) | Easy |
+| [0078-subsets](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0078-subsets/) | Medium |
 | [0088-merge-sorted-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -204,6 +205,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0078-subsets/) | Medium |
 | [0190-reverse-bits](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0190-reverse-bits/) | Easy |
 | [1763-longest-nice-substring](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/1763-longest-nice-substring/) | Easy |
 ## Sliding Window
@@ -238,4 +240,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
