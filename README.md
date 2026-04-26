@@ -39,6 +39,7 @@
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0373-find-k-pairs-with-smallest-sums/) | Medium |
+| [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
 ## Graph Theory
 | Problem Name | Difficulty |
@@ -102,6 +103,7 @@
 | [0207-course-schedule](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -110,11 +112,13 @@
 | [0210-course-schedule-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 | [0841-keys-and-rooms](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0841-keys-and-rooms/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0547-number-of-provinces/) | Medium |
+| [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +137,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0695-max-area-of-island](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0695-max-area-of-island/) | Medium |
 <!---LeetCode Topics End-->
