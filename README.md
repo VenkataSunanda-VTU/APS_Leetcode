@@ -7,6 +7,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0202-happy-number](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0202-happy-number/) | Easy |
 | [0347-top-k-frequent-elements](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0721-accounts-merge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0721-accounts-merge/) | Medium |
 | [0997-find-the-town-judge](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0997-find-the-town-judge/) | Easy |
@@ -25,6 +26,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0189-rotate-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0202-happy-number/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +74,7 @@
 | [0069-sqrtx](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0202-happy-number](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0202-happy-number/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
