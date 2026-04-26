@@ -81,6 +81,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0062-unique-paths](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0066-plus-one](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0066-plus-one/) | Easy |
 | [0069-sqrtx](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -121,6 +122,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0062-unique-paths](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0118-pascals-triangle](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -223,4 +225,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/VenkataSunanda-VTU/APS_Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
